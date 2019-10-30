@@ -21,8 +21,8 @@
   
   <h2>langkah langkah pembuatan API</h2>
   <p>Langkah Pertama  :<br>
-  Download Framework Codeigniter <br>
-  <a href = "https://codeigniter.com/en/download">https://codeigniter.com/en/download</a>
+  Konfigurasi Database <br>
+  Pergi ke file database.php ({nama_aplikasi_anda}/aplication/config/database.php) <br>
   </p>
   <p>Langkah Kedua  : </br>
   Instalasi XAMPP yang sudah di download, link tutorial istall xampp bisa di lihat di link berikut 
