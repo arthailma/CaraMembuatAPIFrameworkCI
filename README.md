@@ -101,8 +101,15 @@ COMMIT;
 		echo json_encode($data_sekolah);
   }
   ......
-  );
   ```
+  
+  <p>Langkah keempat  :<br>
+  jalankan framwork Codeigniter <br>
+  dengan mengetik {http://localhost/{nama_aplikasi_anda}/index.php/api_retrofit/read_data_sekolah} <br>
+  dan jika API tersebut berhasil, maka akan tampil data yang bertype JSON
+  
+  </p>
+  
   
   
   
