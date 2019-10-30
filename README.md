@@ -24,9 +24,7 @@
   Buat database terlebih dahulu <br>
   contoh SQL pembuatan database seperti berikut 
   </p>
-  ```javascript
-// Your code here
-```
+  
   <p>Langkah Kedua  : </br>
   Instalasi XAMPP yang sudah di download, link tutorial istall xampp bisa di lihat di link berikut 
   <br>
@@ -42,7 +40,9 @@
   https://codeigniter.com/download</a>
   </p>
   
-  
+  ```javascript
+// Your code here
+```
   
   
 </html> 
