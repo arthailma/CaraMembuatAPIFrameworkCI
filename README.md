@@ -22,8 +22,8 @@
   
   <h2>Pembuatan API di Framework Codeigniter</h2>
   <p>Langkah Pertama  :<br>
-  Buat Database yang bernama api_retrofit <br>
-  lalu masukan source code sql ke dalam api_retofit 
+  Buat database yang bernama api_retrofit <br>
+  lalu masukan sourcecode sql ke dalam database api_retofit 
   </p>
   
   ```javascript
@@ -61,6 +61,32 @@ COMMIT;
   pergi ke file database.php yang berada di {nama_project_anda}/aplication/config/database.php <br>
   isi file database.php tersebut seperti dibawah ini
   </p>
+  
+  ```javascript
+  ......
+  $db['default'] = array(
+	'dsn'	=> '',
+	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => '',
+	'database' => 'api_retrofit',
+	'dbdriver' => 'mysqli',
+	'dbprefix' => '',
+	'pconnect' => FALSE,
+	'db_debug' => (ENVIRONMENT !== 'production'),
+	'cache_on' => FALSE,
+	'cachedir' => '',
+	'char_set' => 'utf8',
+	'dbcollat' => 'utf8_general_ci',
+	'swap_pre' => '',
+	'encrypt' => FALSE,
+	'compress' => FALSE,
+	'stricton' => FALSE,
+	'failover' => array(),
+	'save_queries' => TRUE
+  ......
+  );
+  ```
   
   
 </html> 
