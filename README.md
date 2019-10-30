@@ -22,8 +22,8 @@
   
   <h2>Pembuatan API di Framework Codeigniter</h2>
   <p>Langkah Pertama  :<br>
-  Buat Database terlebih dahulu <br>
-  Contoh SQL table database yang saya buat
+  Buat Database yang bernama api_retrofit <br>
+  lalu masukan source code sql ke dalam api_retofit 
   </p>
   
   ```javascript
@@ -55,6 +55,12 @@ ALTER TABLE `sekolah`
 COMMIT;
 
   ```
+  
+  <p>Langkah Kedua  :<br>
+  Konfigurasi Database di Framework Codeigniter <br>
+  pergi ke file database.php yang berada di {nama_project_anda}/aplication/config/database.php <br>
+  isi file database.php tersebut seperti dibawah ini
+  </p>
   
   
 </html> 
