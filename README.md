@@ -23,11 +23,37 @@
   <h2>Pembuatan API di Framework Codeigniter</h2>
   <p>Langkah Pertama  :<br>
   Buat Database terlebih dahulu <br>
-  Contoh SQL Database yang saya buat
+  Contoh SQL table database yang saya buat
   </p>
   
   ```javascript
-  // Your code here
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+CREATE TABLE `sekolah` (
+  `id_sekolah` int(11) NOT NULL,
+  `nama_sekolah` varchar(100) NOT NULL,
+  `alamat_sekolah` varchar(100) NOT NULL,
+  `nohp_sekolah` bigint(20) NOT NULL,
+  `photo_sekolah` varchar(100) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+INSERT INTO `sekolah` (`id_sekolah`, `nama_sekolah`, `alamat_sekolah`, `nohp_sekolah`, `photo_sekolah`) VALUES
+(1, 'SMAN 7 Kediri', 'jalan penaanggungan no.11', 81335368840, 'content://com.android.providers.media.documents/document/image%3A337917'),
+(2, 'SMAN 8 Kediri', 'jln patimura', 81335368840, ''),
+(3, 'SMAN 8 Kediri', 'jln patimura', 81335368840, ''),
+(4, 'SMAN 8 Kediri', 'jln patimura', 81335368840, '');
+
+ALTER TABLE `sekolah`
+  ADD PRIMARY KEY (`id_sekolah`);
+
+ALTER TABLE `sekolah`
+  MODIFY `id_sekolah` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+COMMIT;
+
   ```
   
   
