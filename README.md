@@ -23,12 +23,10 @@
   <p>Langkah Pertama  :<br>
   Buat database terlebih dahulu <br>
   contoh SQL pembuatan database seperti berikut 
+  </p>
   ```javascript
 // Your code here
 ```
-  Pergi ke file database.php ({nama_aplikasi_anda}/aplication/config/database.php) <br>
-  isikan dari database.php <br>
-  </p>
   <p>Langkah Kedua  : </br>
   Instalasi XAMPP yang sudah di download, link tutorial istall xampp bisa di lihat di link berikut 
   <br>
