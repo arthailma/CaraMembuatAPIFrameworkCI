@@ -21,8 +21,11 @@
   
   <h2>langkah langkah pembuatan API</h2>
   <p>Langkah Pertama  :<br>
-  Konfigurasi Database <br>
+  Buat database terlebih dahulu <br>
+  contoh SQL pembuatan database seperti berikut <br>
+  
   Pergi ke file database.php ({nama_aplikasi_anda}/aplication/config/database.php) <br>
+  isikan dari database.php <br>
   </p>
   <p>Langkah Kedua  : </br>
   Instalasi XAMPP yang sudah di download, link tutorial istall xampp bisa di lihat di link berikut 
