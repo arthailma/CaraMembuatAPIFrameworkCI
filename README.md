@@ -24,25 +24,9 @@
   Buat database terlebih dahulu <br>
   contoh SQL pembuatan database seperti berikut 
   </p>
-  
-  <p>Langkah Kedua  : </br>
-  Instalasi XAMPP yang sudah di download, link tutorial istall xampp bisa di lihat di link berikut 
-  <br>
-  <a href="https://webhostmu.com/cara- instal-xampp/"> 
-  https://webhostmu.com/cara-instal-xampp/</a>
-  </p>
-  <p>Langkah Ketiga  : </br>
-  Instalasi framework Codeigniter 
-  <br> 
-  Link Donwload Framework CI
-  <br>
-  <a href="https://codeigniter.com/download">
-  https://codeigniter.com/download</a>
-  </p>
-  
   ```javascript
-// Your code here
-```
+  // Your code here
+  ```
   
   
 </html> 
