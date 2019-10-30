@@ -42,7 +42,7 @@
   https://codeigniter.com/download</a>
   </p>
   
-  ```javascript
+  ```sql
   coba
   ```
   
