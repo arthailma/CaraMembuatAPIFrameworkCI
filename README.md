@@ -20,10 +20,10 @@
   </p>
   
   <h2>Instalasi Framework Codeigniter</h2>
-  <p>Langkah Pertama  :</br>
-  Download Framework Codeigniter 
+  <p>Langkah Pertama  :<br>
+  Download Framework Codeigniter <br>
+  <a href = "https://codeigniter.com/en/download">https://codeigniter.com/en/download</a>
   </p>
-  <p><a href = "https://codeigniter.com/en/download">https://codeigniter.com/en/download</a></p>
   <p>Langkah Kedua  : </br>
   Instalasi XAMPP yang sudah di download, link tutorial istall xampp bisa di lihat di link berikut 
   <br>
