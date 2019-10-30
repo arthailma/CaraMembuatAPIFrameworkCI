@@ -21,7 +21,7 @@
   
   
   <h2>Pembuatan API di Framework Codeigniter</h2>
-  <p>Langkah Pertama  :</br>
+  <p>Langkah Pertama  :<br>
   Download XAMPP di link <a href = "https://www.apachefriends.org/download.html">https://www.apachefriends.org/download.html</a>
   </p>
   ```javascript
