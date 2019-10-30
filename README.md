@@ -19,11 +19,7 @@
   https://codeigniter.com/download</a>
   </p>
   
-  <h2>langkah langkah pembuatan API</h2>
-  <p>Langkah Pertama  :<br>
-  Buat database terlebih dahulu <br>
-  contoh SQL pembuatan database seperti berikut 
-  </p>
+  
   ```javascript
   // Your code here
   ```
