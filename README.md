@@ -21,7 +21,7 @@
   
   <h2>Instalasi Framework Codeigniter</h2>
   <p>Langkah Pertama  :</br>
-  Download XAMPP di link <a href = "https://www.apachefriends.org/download.html">https://www.apachefriends.org/download.html</a>
+  Download Framework Codeigniter <a href = "https://codeigniter.com/en/download">https://codeigniter.com/en/download</a>
   </p>
   <p>Langkah Kedua  : </br>
   Instalasi XAMPP yang sudah di download, link tutorial istall xampp bisa di lihat di link berikut 
