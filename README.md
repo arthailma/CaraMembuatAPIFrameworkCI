@@ -24,8 +24,7 @@
   Buat database terlebih dahulu <br>
   contoh SQL pembuatan database seperti berikut 
   ```sql
-    conba
-    coba
+  coba
   ```
   Pergi ke file database.php ({nama_aplikasi_anda}/aplication/config/database.php) <br>
   isikan dari database.php <br>
