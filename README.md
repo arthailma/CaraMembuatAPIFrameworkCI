@@ -57,9 +57,9 @@ COMMIT;
   ```
   
   <p>Langkah Kedua  :<br>
-  Konfigurasi Database di Framework Codeigniter <br>
-  pergi ke file database.php yang berada di {nama_project_anda}/aplication/config/database.php <br>
-  isi file database.php tersebut seperti dibawah ini
+  Konfigurasi database di Framework Codeigniter <br>
+  Pergi ke file database.php yang berada di {nama_project_anda}/aplication/config/database.php <br>
+  Isi file database.php tersebut seperti dibawah ini
   </p>
   
   ```javascript
@@ -87,6 +87,23 @@ COMMIT;
   ......
   );
   ```
+  
+  <p>Langkah Ketiga  :<br>
+  Buat satu controller yang bernama api_retofit <br>
+  letak controller harus berada di {nama_project_anda}/aplication/controller/api_retrofit.php <br>
+  Tambah kode berikut di file api_retrofit.php
+  </p>
+  
+  ```javascript
+  ......
+  public function read_data_sekolah(){
+		$data_sekolah = $this->db->query(" SELECT * from sekolah ")->result();
+		echo json_encode($data_sekolah);
+  }
+  ......
+  );
+  ```
+  
   
   
 </html> 
