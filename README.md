@@ -109,7 +109,7 @@ COMMIT;
   dan jika API tersebut berhasil, maka akan tampil data yang bertype JSON
   </p>
   
-  
+  ![gambar_JSON_pertemuan_10](https://user-images.githubusercontent.com/54092889/67888485-c9688780-fb7f-11e9-814d-4c5bcf954b13.PNG)
   
   
   
