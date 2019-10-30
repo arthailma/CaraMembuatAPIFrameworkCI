@@ -23,9 +23,9 @@
   <p>Langkah Pertama  :<br>
   Buat database terlebih dahulu <br>
   contoh SQL pembuatan database seperti berikut 
-  ```sql
-  coba
-  ```
+  ```javascript
+// Your code here
+```
   Pergi ke file database.php ({nama_aplikasi_anda}/aplication/config/database.php) <br>
   isikan dari database.php <br>
   </p>
