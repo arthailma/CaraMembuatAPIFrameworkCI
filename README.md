@@ -21,7 +21,10 @@
   
   
   <h2>Pembuatan API di Framework Codeigniter</h2>
-  <p>Langkah Pertama </p>
+  <p>Langkah Pertama  :<br>
+  Buat Database terlebih dahulu <br>
+  Contoh SQL Database yang saya buat
+  </p>
   
   ```javascript
   // Your code here
