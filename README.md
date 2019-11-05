@@ -3,5 +3,5 @@
 <p>
   Download XAMPP terlebih dahulu <br>
   Download XAMPP bisa dilihat di website 
-  <a href = "https://www.apachefriends.org/download.html">https://www.apachefriends.org/download.html</a> <br>
+  <a href = "https://www.apachefriends.org/download.html">https://www.apachefriends.org/download.html</a> <br>a
 </p>
