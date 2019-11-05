@@ -1,5 +1,7 @@
 <h2> -- Membuat API dengan PHP -- </h2>
-<h3> Langkah Pertama </h3>
+<h3> Langkah Pertama <br> 
+------------- <br>
+</h3>
 <h4> 
     Download XAMPP <br> 
     Website untuk download XAMPP ada di link berikut <br>
